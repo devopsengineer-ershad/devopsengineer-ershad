@@ -42,15 +42,25 @@
 
 ---
 
-## 📊 GitHub Stats
+## ⭐ DevOps Engineering Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devopsengineer-ershad&show_icons=true&theme=tokyonight" />
-</p>
+🟢 **Infrastructure Automation**
+- Modular Terraform code for Azure (VMs, VNet, AKS, Storage)
+- Environment-wise deployments (Dev / QA / Prod)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devopsengineer-ershad&theme=tokyonight" />
-</p>
+🟢 **CI/CD Excellence**
+- Automated build & release pipelines
+- Quality gates with security & code scanning
+- Zero-downtime deployments
+
+🟢 **Kubernetes & GitOps**
+- Microservices deployment on AKS
+- GitOps using ArgoCD & Helm
+- Rollback & self-healing strategies
+
+🟢 **Observability & Security**
+- Monitoring with Grafana & Prometheus
+- Container & IaC security using Trivy, tfsec, Checkov
 
 
 ---
