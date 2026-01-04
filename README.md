@@ -1,43 +1,66 @@
-# Hi 👋 I'm Ershad Alam
+<h1 align="center">Hi 👋, I'm Ershad Alam</h1>
+<h3 align="center">🚀 DevOps Engineer | Azure | Terraform | Kubernetes | CI/CD</h3>
 
-🚀 **DevOps Engineer** with hands-on experience in building
-**production-ready cloud infrastructure and CI/CD pipelines**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
-## 🧠 What I Do
-- Design & automate **Azure infrastructure** using Terraform
-- Build **CI/CD pipelines** with Azure DevOps & Jenkins
-- Deploy & manage **containerized applications** on Kubernetes (AKS)
-- Implement **DevSecOps** and monitoring best practices
+## 🧠 About Me
+💡 Passionate **DevOps Engineer** with hands-on experience in building  
+**production-ready cloud infrastructure and CI/CD pipelines**.
+
+- ☁️ Azure cloud automation using **Terraform**
+- 🔁 CI/CD with **Azure DevOps, Jenkins & GitHub Actions**
+- 🐳 Containerization with **Docker**
+- ☸ Kubernetes deployments on **AKS**
+- 🔐 DevSecOps & Monitoring best practices
 
 ---
 
 ## 🧰 Tech Stack
-- ☁️ Azure Cloud
-- 🏗 Terraform (IaC)
-- 🔁 Azure DevOps | Jenkins | GitHub Actions
-- 🐳 Docker | ☸ Kubernetes
-- 🚀 Argo CD | Helm
-- 📊 Grafana | Prometheus | Datadog
-- 🔐 Trivy | tfsec | Checkov | SonarQube
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,jenkins,github,linux" />
+</p>
 
 ---
 
-## 📂 Featured DevOps Projects
-➡️ **Production DevOps Portfolio:**  
-👉 https://github.com/Devops-Engineer-Ershad
+## 🚀 DevOps Portfolio
+👉 **Real-world DevOps projects:**  
+🔗 https://github.com/Devops-Engineer-Ershad
 
-- Azure Infrastructure with Terraform
-- End-to-End CI/CD Pipelines
-- Kubernetes Microservices on AKS
-- Monitoring & DevSecOps Tooling
+✔ Terraform Azure Infrastructure  
+✔ End-to-End CI/CD Pipelines  
+✔ Kubernetes Microservices  
+✔ ArgoCD & Helm (GitOps)  
+✔ Monitoring & DevSecOps tools  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devopsengineer-ershad&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devopsengineer-ershad&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/devops-ershad-alam
+<p>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 
-- 📧 Email: ershadalams150@gmail.com
+---
 
-⭐ *Open to DevOps Engineer roles (Full-time / Contract / Freelance)*
+⭐ **Open to DevOps Engineer roles (Full-time | Contract | Freelance)**  
+🔥 *Always building. Always automating.*
