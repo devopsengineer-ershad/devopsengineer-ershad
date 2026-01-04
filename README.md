@@ -36,7 +36,8 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *(add your link)*
-- 📧 Email: *(optional)*
+- 💼 LinkedIn: www.linkedin.com/in/devops-ershad-alam
+
+- 📧 Email: ershadalams150@gmail.com
 
 ⭐ *Open to DevOps Engineer roles (Full-time / Contract / Freelance)*
