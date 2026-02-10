@@ -10,6 +10,19 @@
   </a>
 </p>
 
+<!-- ===================== DEVOPS WORKFLOW BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:9333ea&height=160&section=header&text=DevOps%20Delivery%20Workflow&fontSize=34&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IaC-Infrastructure%20as%20Code-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Azure%20DevOps%20Practices-2563eb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microservices-Kubernetes%20Delivery-16a34a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security-DevSecOps%20Gates-ef4444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Monitoring-Observability-f59e0b?style=for-the-badge" />
+</p>
+
 ---
 
 ## 🔥 DevOps Focus (What I Build)
@@ -58,39 +71,35 @@
 ✔ Monitoring + DevSecOps practices  
 
 ---
+⭐ DevOps Engineering Highlights
+🟢 Infrastructure Automation (IaC)
 
-## ⭐ DevOps Engineering Highlights
+Modular infrastructure patterns for Azure
 
-### 🟢 Infrastructure Automation (IaC)
-- Modular infrastructure patterns for Azure
-- Environment-wise deployments (Dev / QA / Prod)
-- Standardized infrastructure design for scalability and governance
+Environment-wise deployments (Dev / QA / Prod)
 
-### 🟢 CI/CD & Release Engineering
-- Automated pipelines (build → test → deploy)
-- Approval gates and environment promotion workflows
-- Reliable releases with rollback strategy mindset
+Standardized infrastructure design for scalability and governance
 
-### 🟢 Kubernetes & GitOps Delivery
-- Microservices deployment support on Kubernetes-based platforms
-- GitOps-driven workflows and continuous delivery practices
-- Rollback and self-healing strategy support
+🟢 CI/CD & Release Engineering
 
-### 🟢 Observability & DevSecOps
-- Monitoring-first approach: dashboards, logs, alerts
-- Security scanning mindset for IaC and containers
-- Governance mindset: RBAC, policy enforcement, compliance basics
+Automated pipelines (build → test → deploy)
 
----
+Approval gates and environment promotion workflows
 
-## 🔥 DevOps Mindset (How I Work)
-✅ Automation over manual work  
-✅ Security and governance by default  
-✅ Clean deployments with rollback planning  
-✅ Cost-aware infrastructure decisions  
-✅ Monitoring and reliability as priority  
-✅ Continuous improvement in delivery pipelines  
+Reliable releases with rollback strategy mindset
 
----
+🟢 Kubernetes & GitOps Delivery
 
-<h3 align="center">🔥 Always building. Always automating. 🚀</h3>
+Microservices deployment support on Kubernetes-based platforms
+
+GitOps-driven workflows and continuous delivery practices
+
+Rollback and self-healing strategy support
+
+🟢 Observability & DevSecOps
+
+Monitoring-first approach: dashboards, logs, alerts
+
+Security scanning mindset for IaC and containers
+
+Governance mindset: RBAC, policy enforcement, compliance basics
