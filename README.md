@@ -3,91 +3,93 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/devops-ershad-alam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/devopsengineer-ershad" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:ershadalams150@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
-💡 DevOps Engineer with hands-on experience in building **production-ready Azure infrastructure** and implementing **CI/CD automation**.
-
-I focus on:
-- ⚙️ **Infrastructure as Code (IaC)** for scalable cloud environments  
-- 🔁 **CI/CD pipelines** with approvals, promotion, and rollback strategies  
-- 🧩 **Microservices delivery** using container-based deployment practices  
-- 🔐 **Security & governance** (RBAC, policy, compliance mindset)  
-- 💰 **Cost optimization + reliability** improvements  
+## 🔥 DevOps Focus (What I Build)
+🚀 I build **cloud infrastructure + delivery pipelines** that are:
+- ⚙️ **Automated** (Infrastructure as Code)
+- 🔁 **Repeatable** (Dev / QA / Prod deployments)
+- 🔐 **Secure** (RBAC, governance, policy mindset)
+- 💰 **Cost-efficient** (right-sizing, clean resources)
+- 📦 **Microservices-ready** (container + Kubernetes delivery)
+- 📊 **Observable** (logs, metrics, alerts, dashboards)
 
 ---
 
-## 🧠 DevOps Portfolio
-👉 Real-world DevOps projects:  
+## 🧠 About Me
+💡 DevOps Engineer with hands-on experience in:
+- **Infrastructure as Code (IaC)** for Azure environments  
+- **CI/CD pipeline automation** and release workflows  
+- **Microservices deployment support** on Kubernetes platforms  
+- **Cloud governance + security best practices**  
+- **Monitoring + reliability improvements**
+
+---
+
+## 🧰 DevOps Skills (Concept + Industry Keywords)
+✅ Infrastructure as Code (IaC)  
+✅ CI/CD & Release Automation  
+✅ Azure DevOps (ADO) Practices  
+✅ Microservices Delivery  
+✅ Kubernetes Deployments (AKS workflows)  
+✅ GitOps Delivery Strategy  
+✅ Cloud Security & Governance  
+✅ Cost Optimization & Reliability  
+✅ Monitoring, Logging & Alerting  
+
+---
+
+## 🚀 DevOps Portfolio
+👉 Real-world practice projects:  
 🔗 **https://github.com/devopsengineer-ershad**
 
-✅ Terraform Azure Infrastructure  
-✅ End-to-End CI/CD Pipelines  
-✅ Kubernetes Microservices Deployments  
-✅ GitOps (ArgoCD + Helm)  
-✅ Monitoring + DevSecOps practices  
+### Highlights
+✔ Terraform Azure Infrastructure (modular approach)  
+✔ End-to-End CI/CD pipelines with release strategies  
+✔ Kubernetes microservices deployment workflows  
+✔ GitOps delivery using ArgoCD + Helm  
+✔ Monitoring + DevSecOps practices  
 
 ---
 
 ## ⭐ DevOps Engineering Highlights
 
 ### 🟢 Infrastructure Automation (IaC)
-- Modular infrastructure code for Azure (networking, compute, security, platform)
+- Modular infrastructure patterns for Azure
 - Environment-wise deployments (Dev / QA / Prod)
-- Standardized infrastructure patterns and reusable templates
+- Standardized infrastructure design for scalability and governance
 
 ### 🟢 CI/CD & Release Engineering
-- Automated build and release pipelines
-- Quality gates (security + scanning mindset)
-- Release best practices: approvals, promotions, rollback support
+- Automated pipelines (build → test → deploy)
+- Approval gates and environment promotion workflows
+- Reliable releases with rollback strategy mindset
 
 ### 🟢 Kubernetes & GitOps Delivery
-- Microservices deployments on Kubernetes-based platforms
-- GitOps-driven deployments with ArgoCD workflows
-- Rollback and self-healing deployment strategies support
+- Microservices deployment support on Kubernetes-based platforms
+- GitOps-driven workflows and continuous delivery practices
+- Rollback and self-healing strategy support
 
-### 🟢 Observability & Cloud Security
-- Monitoring dashboards, logs, alerts, and troubleshooting workflows
-- Security scanning for containers and IaC validation practices
-- Governance mindset: RBAC, policy enforcement, secure-by-default approach
-
----
-
-## 🧰 Core Skills (Concept Focus)
-🟦 Infrastructure as Code (IaC)  
-🟦 CI/CD & Release Automation  
-🟦 Azure Cloud & Governance  
-🟦 Microservices Deployment  
-🟦 Security & Compliance Basics  
-🟦 Cost Optimization & Reliability  
-🟦 Monitoring & Observability  
+### 🟢 Observability & DevSecOps
+- Monitoring-first approach: dashboards, logs, alerts
+- Security scanning mindset for IaC and containers
+- Governance mindset: RBAC, policy enforcement, compliance basics
 
 ---
 
-## 📌 Pinned Projects (Recommended)
-⭐ Terraform Azure Infrastructure (Modular)  
-⭐ CI/CD Pipeline Implementation  
-⭐ AKS Microservices Deployment  
-⭐ GitOps Workflow (ArgoCD + Helm)  
-⭐ Monitoring & Observability Setup  
-⭐ DevSecOps (IaC + Container scanning)  
-
----
-
-## 📫 Connect With Me
-📍 New Delhi, India  
-📧 **ershadalams150@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/devops-ershad-alam**
+## 🔥 DevOps Mindset (How I Work)
+✅ Automation over manual work  
+✅ Security and governance by default  
+✅ Clean deployments with rollback planning  
+✅ Cost-aware infrastructure decisions  
+✅ Monitoring and reliability as priority  
+✅ Continuous improvement in delivery pipelines  
 
 ---
 
