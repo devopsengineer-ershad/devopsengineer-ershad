@@ -1,79 +1,94 @@
 <h1 align="center">Hi 👋, I'm Ershad Alam</h1>
-<h3 align="center">🚀 DevOps Engineer | Azure | Terraform | Kubernetes | CI/CD</h3>
+<h3 align="center">DevOps / Azure DevOps Engineer | IaC | CI/CD | Microservices | Security | Cost Optimization</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/devops-ershad-alam" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/devopsengineer-ershad" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:ershadalams150@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
 
-## 🧠 About Me
-💡 Passionate **DevOps Engineer** with hands-on experience in building  
-**production-ready cloud infrastructure and CI/CD pipelines**.
+## 🚀 About Me
+💡 DevOps Engineer with hands-on experience in building **production-ready Azure infrastructure** and implementing **CI/CD automation**.
 
-- ☁️ Azure cloud automation using **Terraform**
-- 🔁 CI/CD with **Azure DevOps, Jenkins & GitHub Actions**
-- 🐳 Containerization with **Docker**
-- ☸ Kubernetes deployments on **AKS**
-- 🔐 DevSecOps & Monitoring best practices
-
----
-
-## 🧰 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,jenkins,github,linux" />
-</p>
+I focus on:
+- ⚙️ **Infrastructure as Code (IaC)** for scalable cloud environments  
+- 🔁 **CI/CD pipelines** with approvals, promotion, and rollback strategies  
+- 🧩 **Microservices delivery** using container-based deployment practices  
+- 🔐 **Security & governance** (RBAC, policy, compliance mindset)  
+- 💰 **Cost optimization + reliability** improvements  
 
 ---
 
-## 🚀 DevOps Portfolio
-👉 **Real-world DevOps projects:**  
-🔗 https://github.com/Devops-Engineer-Ershad
+## 🧠 DevOps Portfolio
+👉 Real-world DevOps projects:  
+🔗 **https://github.com/devopsengineer-ershad**
 
-✔ Terraform Azure Infrastructure  
-✔ End-to-End CI/CD Pipelines  
-✔ Kubernetes Microservices  
-✔ ArgoCD & Helm (GitOps)  
-✔ Monitoring & DevSecOps tools  
+✅ Terraform Azure Infrastructure  
+✅ End-to-End CI/CD Pipelines  
+✅ Kubernetes Microservices Deployments  
+✅ GitOps (ArgoCD + Helm)  
+✅ Monitoring + DevSecOps practices  
 
 ---
 
 ## ⭐ DevOps Engineering Highlights
 
-🟢 **Infrastructure Automation**
-- Modular Terraform code for Azure (VMs, VNet, AKS, Storage)
+### 🟢 Infrastructure Automation (IaC)
+- Modular infrastructure code for Azure (networking, compute, security, platform)
 - Environment-wise deployments (Dev / QA / Prod)
+- Standardized infrastructure patterns and reusable templates
 
-🟢 **CI/CD Excellence**
-- Automated build & release pipelines
-- Quality gates with security & code scanning
-- Zero-downtime deployments
+### 🟢 CI/CD & Release Engineering
+- Automated build and release pipelines
+- Quality gates (security + scanning mindset)
+- Release best practices: approvals, promotions, rollback support
 
-🟢 **Kubernetes & GitOps**
-- Microservices deployment on AKS
-- GitOps using ArgoCD & Helm
-- Rollback & self-healing strategies
+### 🟢 Kubernetes & GitOps Delivery
+- Microservices deployments on Kubernetes-based platforms
+- GitOps-driven deployments with ArgoCD workflows
+- Rollback and self-healing deployment strategies support
 
-🟢 **Observability & Security**
-- Monitoring with Grafana & Prometheus
-- Container & IaC security using Trivy, tfsec, Checkov
+### 🟢 Observability & Cloud Security
+- Monitoring dashboards, logs, alerts, and troubleshooting workflows
+- Security scanning for containers and IaC validation practices
+- Governance mindset: RBAC, policy enforcement, secure-by-default approach
 
+---
+
+## 🧰 Core Skills (Concept Focus)
+🟦 Infrastructure as Code (IaC)  
+🟦 CI/CD & Release Automation  
+🟦 Azure Cloud & Governance  
+🟦 Microservices Deployment  
+🟦 Security & Compliance Basics  
+🟦 Cost Optimization & Reliability  
+🟦 Monitoring & Observability  
+
+---
+
+## 📌 Pinned Projects (Recommended)
+⭐ Terraform Azure Infrastructure (Modular)  
+⭐ CI/CD Pipeline Implementation  
+⭐ AKS Microservices Deployment  
+⭐ GitOps Workflow (ArgoCD + Helm)  
+⭐ Monitoring & Observability Setup  
+⭐ DevSecOps (IaC + Container scanning)  
 
 ---
 
 ## 📫 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/devops-ershad-alam">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
+📍 New Delhi, India  
+📧 **ershadalams150@gmail.com**  
+🔗 LinkedIn: **https://www.linkedin.com/in/devops-ershad-alam**
 
 ---
 
-⭐ **Open to DevOps Engineer roles (Full-time | Contract | Freelance)**  
-🔥 *Always building. Always automating.*
+<h3 align="center">🔥 Always building. Always automating. 🚀</h3>
