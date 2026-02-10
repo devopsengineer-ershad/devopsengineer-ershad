@@ -71,35 +71,25 @@
 ✔ Monitoring + DevSecOps practices  
 
 ---
-⭐ DevOps Engineering Highlights
-🟢 Infrastructure Automation (IaC)
+## ⭐ DevOps Engineering Highlights
 
-Modular infrastructure patterns for Azure
+### 🟢 Infrastructure Automation (IaC)
+- Modular infrastructure patterns for Azure  
+- Multi-environment deployments (Dev / QA / Prod)  
+- Scalable and governed infrastructure design  
 
-Environment-wise deployments (Dev / QA / Prod)
+### 🟢 CI/CD & Release Engineering
+- Automated pipelines (build → test → deploy)  
+- Approval gates and environment promotions  
+- Rollback strategy and release stability mindset  
 
-Standardized infrastructure design for scalability and governance
+### 🟢 Kubernetes & GitOps Delivery
+- Microservices deployment support on Kubernetes  
+- GitOps-driven delivery practices  
+- Rollback and self-healing deployment approach  
 
-🟢 CI/CD & Release Engineering
-
-Automated pipelines (build → test → deploy)
-
-Approval gates and environment promotion workflows
-
-Reliable releases with rollback strategy mindset
-
-🟢 Kubernetes & GitOps Delivery
-
-Microservices deployment support on Kubernetes-based platforms
-
-GitOps-driven workflows and continuous delivery practices
-
-Rollback and self-healing strategy support
-
-🟢 Observability & DevSecOps
-
-Monitoring-first approach: dashboards, logs, alerts
-
-Security scanning mindset for IaC and containers
-
-Governance mindset: RBAC, policy enforcement, compliance basics
+### 🟢 Observability & DevSecOps
+- Dashboards, logs, alerts, troubleshooting workflows  
+- IaC and container security scanning mindset  
+- Governance basics (RBAC, policy enforcement)  
+---
